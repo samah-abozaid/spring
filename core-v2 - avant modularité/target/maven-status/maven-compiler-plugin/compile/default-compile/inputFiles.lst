@@ -1,0 +1,11 @@
+/Users/samihhabbani/Documents/spring_boot/COURS M2i/démonstrations/core-v2/src/main/java/com/mycompany/invoice/AppV1.java
+/Users/samihhabbani/Documents/spring_boot/COURS M2i/démonstrations/core-v2/src/main/java/com/mycompany/invoice/controller/keyboard/InvoiceControllerKeyBoard.java
+/Users/samihhabbani/Documents/spring_boot/COURS M2i/démonstrations/core-v2/src/main/java/com/mycompany/invoice/repository/InvoiceRepositoryInterface.java
+/Users/samihhabbani/Documents/spring_boot/COURS M2i/démonstrations/core-v2/src/main/java/com/mycompany/invoice/controller/InvoiceControllerInterface.java
+/Users/samihhabbani/Documents/spring_boot/COURS M2i/démonstrations/core-v2/src/main/java/com/mycompany/invoice/controller/web/InvoiceControllerWeb.java
+/Users/samihhabbani/Documents/spring_boot/COURS M2i/démonstrations/core-v2/src/main/java/com/mycompany/invoice/service/prefix/InvoiceServicePrefix.java
+/Users/samihhabbani/Documents/spring_boot/COURS M2i/démonstrations/core-v2/src/main/java/com/mycompany/invoice/service/number/InvoiceServiceNumber.java
+/Users/samihhabbani/Documents/spring_boot/COURS M2i/démonstrations/core-v2/src/main/java/com/mycompany/invoice/App.java
+/Users/samihhabbani/Documents/spring_boot/COURS M2i/démonstrations/core-v2/src/main/java/com/mycompany/invoice/repository/memory/InvoiceRepositoryMemory.java
+/Users/samihhabbani/Documents/spring_boot/COURS M2i/démonstrations/core-v2/src/main/java/com/mycompany/invoice/entity/Invoice.java
+/Users/samihhabbani/Documents/spring_boot/COURS M2i/démonstrations/core-v2/src/main/java/com/mycompany/invoice/service/InvoiceServiceInterface.java
